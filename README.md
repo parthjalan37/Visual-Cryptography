@@ -5,12 +5,12 @@
 Here are sample results:  
 
 **Advance Encryption Standard (AES) algorithm**:  
-![](images/AES legend.png)
-![](images/AES sample.png)
+![](images/AES-legend.PNG)
+![](images/AES-sample.PNG)
  
 **Visual Cryptography for Gray-scale Images Using Bit-level**:  
-![](images/Bit-level legend.png)
-![](images/Bit-level sample.png)
+![](images/Bit-level-legend.PNG)
+![](images/Bit-level-sample.PNG)
 <br/>
 
 **Refer the 'Project Report' for an in-depth understanding.**
