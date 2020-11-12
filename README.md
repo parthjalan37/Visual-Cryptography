@@ -3,11 +3,14 @@
 <br/>
 
 Here are sample results:  
+<br/>
 
-**Advance Encryption Standard (AES) algorithm**:  
+**Advance Encryption Standard (AES) algorithm**:
+<img src="images/AES-legend.PNG" height="100"/>
 ![](images/AES-legend.PNG)
 ![](images/AES-sample.PNG)
- 
+<br/>
+
 **Visual Cryptography for Gray-scale Images Using Bit-level**:  
 ![](images/Bit-level-legend.PNG)
 ![](images/Bit-level-sample.PNG)
